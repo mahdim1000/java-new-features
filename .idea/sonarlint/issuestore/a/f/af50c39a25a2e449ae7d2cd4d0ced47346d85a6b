@@ -1,0 +1,13 @@
+
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎÑè„8ğŸ’ıŸ2J$a15c8b7d-3bd2-4dc6-9643-d499f6a7e8a7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öş¾¼8ğŸ’ıŸ2J$e09dd136-e244-4c39-a58c-d1393a3e48c4
+
+java:S1192"FDefine a constant instead of duplicating this literal "Apple" 4 times.(şˆê”ûÿÿÿÿ8ñŸ’ıŸ2J$5016b811-1617-4127-a638-17b7831354fb
+
+java:S1192"GDefine a constant instead of duplicating this literal "Cherry" 3 times.(ÒÏÊªûÿÿÿÿ8µš–ıŸ2J$d06ebd8b-73cd-4382-90b8-7fd2af74b0f1
+Š
+java:S1192"GDefine a constant instead of duplicating this literal "Banana" 3 times.(á°òÁ8µš–ıŸ2J$c0a930a5-1ae8-48ce-83d9-d6fb0fadf717
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(‘‰ãŒùÿÿÿÿ8îË“ıŸ2J$eda0ff0f-c387-486b-b21e-240d484ca181
+r	java:S106"+Replace this use of System.out by a logger.(€èÿ‘ıÿÿÿÿ8ôŸ’ıŸ2J$e175b7a2-cf12-436a-aa47-b1ee29935e02
+l	java:S106'"+Replace this use of System.out by a logger.(¹ìè8ôŸ’ıŸ2J$9a6717b9-6615-4cb4-af66-a36543ebf18c
+m	java:S1065"+Replace this use of System.out by a logger.(¶’ÁÁ8¹š–ıŸ2J$cc7f24ac-07ea-4559-a7f1-c37c9f4b5b5b
